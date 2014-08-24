@@ -1,0 +1,9 @@
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Debug\FullScreenWebBrowser.exe.config
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Debug\FullScreenWebBrowser.exe
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Debug\FullScreenWebBrowser.pdb
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.Form1.resources
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.Properties.Resources.resources
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.csproj.GenerateResource.Cache
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.exe
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Debug\FullScreenWebBrowser.pdb

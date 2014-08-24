@@ -1,0 +1,8 @@
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.exe.config
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.exe
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.pdb
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Form1.resources
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Properties.Resources.resources
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.csproj.GenerateResource.Cache
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.exe
+C:\Users\mba7\SkyDrive\studies\1408\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.pdb
