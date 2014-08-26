@@ -16,14 +16,16 @@ namespace FullScreenWebBrowser
 
             // ◆モニタサイズを取得（複数の場合も対応）
             // モニタサイズ保持用の構造体を生成
-            //Rectangle screenRectangle = new Rectangle(0, 0, 0, 0);
+            /*
             Rectangle screenRectangle = new MultiScreen().rectangle();
             this.Top = screenRectangle.Top;
             this.Left = screenRectangle.Left;
             this.Width = screenRectangle.Width;
             this.Height = screenRectangle.Height;
+            /**/
 
-            /*
+            //*
+            Rectangle screenRectangle = new Rectangle(0, 0, 0, 0);
             // ディスプレイの解像度を取得するには？
             // http://www.atmarkit.co.jp/fdotnet/dotnettips/003screen/screen.html
             foreach (Screen s in Screen.AllScreens)
@@ -42,7 +44,7 @@ namespace FullScreenWebBrowser
             this.Left = screenRectangle.Left;
             this.Width = screenRectangle.Width - screenRectangle.X;
             this.Height = screenRectangle.Height - screenRectangle.Y;
-            */
+            /**/
 
             // バイナリーと同階層のindex.htmlをブラウザで表示
             String htmlPath = Directory.GetCurrentDirectory() + Path.DirectorySeparatorChar + "index.html";
