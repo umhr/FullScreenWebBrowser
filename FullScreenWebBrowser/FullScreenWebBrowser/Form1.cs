@@ -14,36 +14,17 @@ namespace FullScreenWebBrowser
             // ウィンドウの枠無し
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 
+            // ウィンドウの位置を指定できるように。
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
+
             // ◆モニタサイズを取得（複数の場合も対応）
             // モニタサイズ保持用の構造体を生成
-            /*
+            //*
             Rectangle screenRectangle = new MultiScreen().rectangle();
             this.Top = screenRectangle.Top;
             this.Left = screenRectangle.Left;
             this.Width = screenRectangle.Width;
             this.Height = screenRectangle.Height;
-            /**/
-
-            //*
-            Rectangle screenRectangle = new Rectangle(0, 0, 0, 0);
-            // ディスプレイの解像度を取得するには？
-            // http://www.atmarkit.co.jp/fdotnet/dotnettips/003screen/screen.html
-            foreach (Screen s in Screen.AllScreens)
-            {
-                //Console.WriteLine(s.Bounds);
-                screenRectangle.X = Math.Min(screenRectangle.X, s.Bounds.X);
-                screenRectangle.Y = Math.Min(screenRectangle.Y, s.Bounds.Y);
-
-                screenRectangle.Width = Math.Max(screenRectangle.Width, s.Bounds.Right);
-                screenRectangle.Height = Math.Max(screenRectangle.Height, s.Bounds.Bottom);
-            }
-            //Console.WriteLine(screenRectangle);
-
-            // ウィンドウの位置やサイズを指定
-            this.Top = screenRectangle.Top;
-            this.Left = screenRectangle.Left;
-            this.Width = screenRectangle.Width - screenRectangle.X;
-            this.Height = screenRectangle.Height - screenRectangle.Y;
             /**/
 
             // バイナリーと同階層のindex.htmlをブラウザで表示

@@ -14,3 +14,11 @@ C:\Users\宗士\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullS
 C:\Users\宗士\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Form1.resources
 C:\Users\宗士\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Properties.Resources.resources
 C:\Users\宗士\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.csproj.GenerateResource.Cache
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.exe.config
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.exe
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.pdb
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.exe
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\bin\Release\FullScreenWebBrowser.pdb
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Form1.resources
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.Properties.Resources.resources
+C:\Users\umehara7\Documents\GitHub\FullScreenWebBrowser\FullScreenWebBrowser\FullScreenWebBrowser\obj\Release\FullScreenWebBrowser.csproj.GenerateResource.Cache
