@@ -27,9 +27,25 @@ namespace FullScreenWebBrowser
             // ウィンドウの位置やサイズを指定
             result.X = temp.X;
             result.Y = temp.Y;
-
             result.Width = temp.Width - temp.X;
             result.Height = temp.Height - temp.Y;
+
+            if (Properties.Settings.Default.Width > -1)
+            {
+                result.Width = Properties.Settings.Default.Width;
+            }
+            if (Properties.Settings.Default.Height > -1)
+            {
+                result.Height = Properties.Settings.Default.Height;
+            }
+            if (Properties.Settings.Default.Left > -1)
+            {
+                result.X = Properties.Settings.Default.Left;
+            }
+            if (Properties.Settings.Default.Top > -1)
+            {
+                result.Y = Properties.Settings.Default.Top;
+            }
 
             return result;
         }
